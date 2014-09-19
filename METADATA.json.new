@@ -1,0 +1,32 @@
+{
+  "name": "Chela One",
+  "designer": "Miguel Hernandez",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 19847,
+  "fonts": [
+    {
+      "name": "Chela One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ChelaOne-Regular-TTF.ttf",
+      "postScriptName": "ChelaOne-Regular",
+      "fullName": "Chela One",
+      "copyright": "Copyright (c) 2012 by LatinoType (www.latinotype.com), with Reserved Font Name 'Chela'"
+    },
+    {
+      "name": "Chela One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "ChelaOne-Regular.ttf",
+      "postScriptName": "ChelaOne-Regular",
+      "fullName": "Chela One",
+      "copyright": "Copyright (c) 2012 by LatinoType (www.latinotype.com), with Reserved Font Name 'Chela'"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-10-05"
+}
